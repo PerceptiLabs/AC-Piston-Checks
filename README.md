@@ -12,9 +12,9 @@ The data can be used to build and train an ML model that can detect defects in a
 # Structure
 This repo has the following structure:
 * **/data**: contains the images of AC pistons partitioned into the following subdirectories:
- * **/defect_1**: broken, out of shape, or have been dropped.
- * **/defect_2**: have oily, greasy, or rusty stains.
- * **/normal**:  normal, non-defective pistons.
+  * **/defect_1**: broken, out of shape, or have been dropped.
+  * **/defect_2**: have oily, greasy, or rusty stains.
+  * **/normal**:  normal, non-defective pistons.
 
 ![](ac_sample.png)  |  ![](ac_sample.png)
 
