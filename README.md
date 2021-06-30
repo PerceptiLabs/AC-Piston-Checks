@@ -32,4 +32,4 @@ The following shows a partial example of the data stored in the CSV file:
 
 Got questions, feedback, or want to join a community of machine learning practitioners working with exciting tools and projects? Check out our [Community](https://forum.perceptilabs.com/)!
 
-<sup>1</sup> Dataset Credits: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+<sup>1</sup> Dataset Credits: https://www.kaggle.com/satishpaladi11/mechanic-component-images-normal-defected
