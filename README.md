@@ -22,8 +22,8 @@ This repo has the following structure:
 
 The following shows a partial example of the data stored in the CSV file:
 
-| :image_path | :target |
-| ---------- | ------ |
+| image_path | target |
+| :---------- | :------ |
 | defect_1/defect_0.jpeg | 0 |
 | defect_2/defect2_13.jpeg | 1 |
 | normal/normal_5.jpeg | 2 |
