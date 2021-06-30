@@ -16,7 +16,7 @@ This repo has the following structure:
   * **/defect_2**: have oily, greasy, or rusty stains.
   * **/normal**:  normal, non-defective pistons.
 
-![](ac_sample.png)  |  ![](ac_sample.png)
+![](ac_sample.png)
 
 * **/data/defect_log.csv**: CSV file that maps the images to nominal classification values for use in loading the data into PerceptiLabs. "0" corresponds to defect 1, "1" to defect 2, and "2" to normal (i.e., non-defective AC pistons.
 
